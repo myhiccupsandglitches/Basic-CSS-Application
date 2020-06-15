@@ -1,0 +1,279 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 10px;
+}
+
+h1 {
+
+
+  color: #66bfbf;
+  position: relative;
+  font-size: 90px;
+  margin: 120px auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+}
+
+
+h2 {
+  color: #66bfbf;
+  font-size: 1.9rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+hr{
+
+   border-top: 10px dotted #EAF6F6;
+   border-bottom: none;
+   border-left: none;
+   border-right: none;
+   width: 5%;
+   margin: 100px auto;
+}
+
+
+
+p{
+  line-height: 2;
+}
+
+.intro{
+
+
+  width: 30%;
+  margin: auto;
+
+}
+
+.middle-container {
+
+
+
+  padding-top: 50px;
+  padding-bottom: 40px;
+  background-color: #f6cd61;
+
+}
+
+.middle-container:hover{
+
+  cursor: default;
+}
+
+
+.bottom-container {
+
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 30px;
+
+}
+
+
+
+
+.Dev {
+  color: black;
+}
+
+
+
+.top-cloud {
+  position: absolute;
+  top: 80px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+
+.mountain{
+
+  position: relative;
+  bottom: -5px;
+}
+
+
+.image-size {
+
+
+  padding-top: 100px;
+  padding-bottom: 30px;
+  height: 200px;
+  width: 200px;
+
+}
+
+.comp-image-size{
+
+  width: 26.5%;
+  float: left;
+  padding-right: 30px;
+  padding-top: 19px;
+
+}
+
+
+.Rai-h1{
+
+  font-size: 90px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+
+.Rai-p{
+
+  margin-top: 4px;
+  margin: 10px;
+  padding: 6px;
+  text-align: left;
+  font-family: 'Merriweather', serif;
+}
+
+.Rai{
+
+    background-color: #efee9d;
+
+}
+
+
+
+.subline{
+
+  font-weight:  normal;
+}
+
+
+
+
+.BodyofRaiandMe{
+
+  background-color: #efee9d;
+}
+
+.RaiandMeimg{
+
+
+   margin-top: 50px;
+   height: 200px;
+   width: 200px;
+
+}
+
+
+.Singinggif{
+
+ width: 25%;
+ float: right;
+ padding-left: 30px;
+}
+
+
+.skill-row{
+
+
+   text-align: left;
+   width: 50%;
+   margin: 100px auto 100px auto;
+
+
+}
+
+  .btn {
+     -webkit-border-radius: 13px;
+     -moz-border-radius: 13px;
+     border-radius: 13px;
+     color: #EAF6F6;
+     font-family: sans-serif;
+     font-size: 18px;
+     font-weight: 100;
+     padding: 11px;
+     background-color: #66BFBF;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
+
+  .btn:hover{
+
+    color: #17706e;
+    
+  }
+
+
+
+  .footer-link{
+
+
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    color: #11999E;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    padding: 11px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .footer-link:hover{
+
+    color: #17706e;
+  }
+
+
+.copyright-text{
+
+  color: #eaf6f6;
+}
+
+
+
+.mailimg{
+
+  border-radius: 20px;
+}
+
+
+.my-skills-header{
+
+  padding-top: 30px;
+}
+
+
+
+.contact-me-p{
+
+  margin: 50px auto 20px;
+}
+
+
+.contact-me{
+
+}
